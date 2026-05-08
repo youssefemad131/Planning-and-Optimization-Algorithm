@@ -61,7 +61,7 @@ Benha → Al-Zagazig → Al-Mansoura → Shebin Al-Kom → Benha
 Total Distance: 221 KM
 ```
 
-📂 [`Genetic_Algorithm/`](./Genetic_Algorithm/)
+📂 [`Genetic_Algorithm/`](./Genetic-Algorithm/)
 
 ---
 
