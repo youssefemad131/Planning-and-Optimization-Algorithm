@@ -4,7 +4,7 @@
 > **Author:** Youssef Emad
 > **University:** Benha University — Computer Science, AI Track
 
-A collection of **3 bio-inspired optimization algorithms** implemented in Python, applied to real-world planning and resource allocation problems.
+A collection of **3 optimization algorithms** implemented in Python, applied to real-world planning and resource allocation problems.
 
 ---
 
