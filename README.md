@@ -61,7 +61,7 @@ Benha → Al-Zagazig → Al-Mansoura → Shebin Al-Kom → Benha
 Total Distance: 221 KM
 ```
 
-📂 [`Genetic-Algorithm/`](./Genetic-Algorithm/)
+📂 [Genetic Algorithm](./genetic-algorithm/)
 
 ---
 
@@ -86,7 +86,7 @@ Assignment : [1, 4, 3, 2, 0]
 Total Cost : 442
 ```
 
-📂 [`Ant_Colony_Optimization/`](./Ant_Colony_Optimization/)
+📂 [Ant Colony Optimization](./ant-colony-optimization/)
 
 ---
 
@@ -111,8 +111,7 @@ Objective f(x): 81.6458
 Constraint satisfied: True
 ```
 
-📂 [`Artificial_Bee_Colony/`](./Artificial_Bee_Colony/)
-
+📂 [Artificial Bee Colony](./artificial-bee-colony/)
 ---
 
 ## 📊 Comparison
